@@ -30,17 +30,17 @@
 ## 🔥⠀ᴘ ʀ ᴏ ꜰ ɪ ʟ ᴇ⠀ꜱ ᴛ ᴀ ᴛ ᴜ ꜱ
 <p align="center">
 	<span><a href="https://github.com/ID29TH">
-		<img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="154px"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="153px"/>
 	</a></span>
 	<span><a href="https://github.com/ID29TH">
-		<img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" height="154px"/>
+		<img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" height="153px"/>
 	</a></span>
 </p>
 
 ## 🖍⠀ᴘ ʀ ᴏ ꜰ ɪ ʟ ᴇ⠀ʟ ᴀ ɴ ɢ ᴜ ᴀ ɢ ᴇ
 <p align="center">
-	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Neikan&layout=compact&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="187px" /></a>
-	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_title=true&hide_border=true&bg_color=22272e&icon_color=DD2727" height="187px"/></a>
+	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Neikan&layout=compact&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="186px" /></a>
+	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_title=true&hide_border=true&bg_color=22272e&icon_color=DD2727" height="186px"/></a>
 </p>
 
 ## 🧮 ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ᴄ ʜ ᴀ ʀ ᴛ
