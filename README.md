@@ -113,21 +113,15 @@ JavaScript               24 repos            ███████████�
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ID29TH&bg_color=22272e&hide_title=true&color=DD2727&line=DC9A18&point=FFFFFF&hide_border=true"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&exclude_repo=github-readme-stats,anuraghazra.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&hide=javascript,html)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&layout=compact)
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ECqStudio)
 
-
-<p align="center">
-  <a href="https://github.com/ID29TH">
-    <img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&custom_title=📕 : ꜱ ᴛ ᴀ ᴛ ᴜ ꜱ&bg_color=22272e&hide_border=true" />
-  </a>
-</p>
