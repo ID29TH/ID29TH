@@ -1,7 +1,17 @@
-<h1 align="center">
-  ʜ ɪ⠀<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-<br><br><br><br><br>
+<p><br></p>
+
+<h3 align="center">
+  ʜ ɪ⠀
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h3>
+
+<p><br></p>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC6NAA-ok87KC5rGxVNUI-Lg?color=DD2727&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=dc4a4a"/></a> 
