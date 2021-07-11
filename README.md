@@ -38,10 +38,12 @@
 </p>
 
 ## 🔥⠀ᴘ ʀ ᴏ ꜰ ɪ ʟ ᴇ⠀ꜱ ᴛ ᴀ ᴛ ᴜ ꜱ
-<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&custom_title= &bg_color=22272e&icon_color=DD2727&hide_border=true" height="192px"/></a>
-<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=vision-friendly-dark&custom_title= &hide_border=true&bg_color=22272e&icon_color=DD2727" height="192px"/></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="192px"/></a>
+	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_title=true&hide_border=true&bg_color=22272e&icon_color=DD2727" height="192px"/></a>
+	<br/>
+	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
