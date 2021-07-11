@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ID29TH/ID29TH@main@commit-username-and-email
+      - uses: ID29TH/ID29TH@commit-username-and-email
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
