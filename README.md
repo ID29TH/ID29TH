@@ -1,7 +1,7 @@
-<p align="center">
+<h2 align="center">
   ʜ ɪ⠀ᴇ ᴠ ᴇ ʀ ʏ ᴏ ɴ ᴇ⠀
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</p>
+</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
