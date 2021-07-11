@@ -41,7 +41,7 @@
 <p align="center">
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="160px"/></a>
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_title=true&hide_border=true&bg_color=22272e&icon_color=DD2727" height="160px"/></a>
-	<a href="https://github.com/ID29TH"><img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" height="160px"/></a>
+	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ID29TH&bg_color=22272e&hide_title=true&color=DD2727&line=DC9A18&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
