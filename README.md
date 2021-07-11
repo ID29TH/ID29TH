@@ -7,17 +7,33 @@
 
 <p><br></p>
 
+<!-- STAT SOCIAL -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC6NAA-ok87KC5rGxVNUI-Lg?color=DD2727&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=dc4a4a"/></a> 
-  <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC6NAA-ok87KC5rGxVNUI-Lg?color=DD2727&logo=youtube&style=for-the-badge&labelColor=dc4a4a"/></a> 
-  <a href="https://twitter.com/ECqStudio">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ECqStudio?color=DD2727&labelColor=dc4a4a&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/ID29TH">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ID29TH?color=DD2727&labelColor=dc4a4a&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/ID29TH">
-    <img alt="views" title="GitHub profile views" src="https://ecq-studio.com/github/profileView"/></a>
+	<a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1">
+		<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC6NAA-ok87KC5rGxVNUI-Lg?color=DD2727&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=dc4a4a"/>
+	</a> 
+	<a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg">
+		<img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC6NAA-ok87KC5rGxVNUI-Lg?color=DD2727&logo=youtube&style=for-the-badge&labelColor=dc4a4a"/>
+	</a> 
+	<a href="https://twitter.com/ECqStudio">
+		<img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ECqStudio?color=DD2727&labelColor=dc4a4a&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+	</a>
+	<a href="https://github.com/ID29TH">
+		<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ID29TH?color=DD2727&labelColor=dc4a4a&style=for-the-badge&logo=github&label=Follow"/>
+	</a>
+	<a href="https://github.com/ID29TH">
+		<img alt="views" title="GitHub profile views" src="https://ecq-studio.com/github/profileView"/>
+	</a>
+</p>
+
+<!-- STAT GRAPH -->
+<p align="center">
+	<span><a href="https://github.com/ID29TH">
+		<img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&custom_title= &bg_color=22272e&hide_border=true" />
+	</a></span>
+	<span><a href="https://github.com/ID29TH">
+		<img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" />
+	</a></span>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
@@ -32,18 +48,7 @@
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ECqStudio)
 
-<p align="center">
-<span>
-  <a href="https://github.com/ID29TH">
-    <img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&custom_title= &bg_color=22272e&hide_border=true" />
-  </a>  
-</span>
-<span>
-  <a href="https://github.com/ID29TH">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" />
-  </a>  
-</span>
-</p>
+
 <p align="center">
   <a href="https://github.com/ID29TH">
     <img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&custom_title=📕 : ꜱ ᴛ ᴀ ᴛ ᴜ ꜱ&bg_color=22272e&hide_border=true" />
