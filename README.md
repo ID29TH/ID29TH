@@ -7,6 +7,9 @@
 
 <p><br></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- STAT SOCIAL -->
 <p align="center">
 	<a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1">
