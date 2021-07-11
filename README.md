@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <span>
   <a href="https://github.com/ID29TH">
-    <img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&custom_title=📕 : ꜱ ᴛ ᴀ ᴛ ᴜ ꜱ&bg_color=22272e&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&custom_title= &bg_color=22272e&hide_border=true" />
   </a>  
 </span>
 <span>
