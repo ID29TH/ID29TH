@@ -9,17 +9,17 @@ ID29TH/ID29TH is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)](https://github.com/ID29TH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/ID29TH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&hide=javascript,html)](https://github.com/ID29TH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&hide=javascript,html)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&langs_count=8)](https://github.com/ID29TH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&langs_count=8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&layout=compact)](https://github.com/ID29TH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/ID29TH/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ID29TH)
 
 <p>
 <span>
