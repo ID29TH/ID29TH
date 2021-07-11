@@ -7,18 +7,6 @@
 
 <p><br></p>
 
-<!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [ID29TH/github-activity-readme](https://github.com/ID29TH/github-activity-readme) from [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🔱 Forked [ID29TH/jamesgeorge007](https://github.com/ID29TH/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-3. 🔱 Forked [ID29TH/Simple-View-Counter](https://github.com/ID29TH/Simple-View-Counter) from [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter)
-4. 🔱 Forked [ID29TH/anmol098](https://github.com/ID29TH/anmol098) from [anmol098/anmol098](https://github.com/anmol098/anmol098)
-5. 🔱 Forked [ID29TH/DenverCoder1](https://github.com/ID29TH/DenverCoder1) from [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 11th, 2021, 4:12:07 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
 <!-- STAT SOCIAL -->
 <p align="center">
 	<a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1">
@@ -59,6 +47,14 @@ Last Updated: Sunday, July 11th, 2021, 4:12:07 PM
 <p align="center">
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ID29TH&bg_color=22272e&hide_title=true&color=DD2727&line=DC9A18&point=FFFFFF&hide_border=true"/></a>
 </p>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
