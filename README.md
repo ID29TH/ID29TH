@@ -8,7 +8,6 @@
 <p><br></p>
 
 <!-- STAT SOCIAL -->
-## 🔥 Streak stats
 <p align="center">
 	<a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1">
 		<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC6NAA-ok87KC5rGxVNUI-Lg?color=DD2727&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=dc4a4a"/>
@@ -28,7 +27,7 @@
 </p>
 
 <!-- STAT GRAPH -->
-## 🔥 Streak stats
+## 🔥⠀ᴘ ʀ ᴏ ꜰ ɪ ʟ ᴇ⠀ꜱ ᴛ ᴀ ᴛ ᴜ ꜱ
 <p align="center">
 	<span><a href="https://github.com/ID29TH">
 		<img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&custom_title= &bg_color=22272e&icon_color=DD2727&hide_border=true" />
