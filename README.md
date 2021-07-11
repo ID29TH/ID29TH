@@ -36,7 +36,6 @@
 		<img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" />
 	</a></span>
 </p>
-<b>ɴ ᴏ ᴛ ᴇ : </b> Hobby to hero.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
