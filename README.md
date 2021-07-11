@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @ID29TH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ID29TH/ID29TH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+  Welcome to Jonah Lawrence's profile!
+  <img src="https://media.giphy.com/media/Y00jEQ4f3H2c13bDSh/giphy.gif" width="28">
+</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
