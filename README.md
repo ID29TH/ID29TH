@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Welcome to Thawatchai Saing's profile!
-  <img src="https://media.giphy.com/media/gjmi54vMmLMv6v9Kfx/giphy.gif" width="28">
-</h3>
+  <img src="https://media.giphy.com/media/mtDzIqcx7HQRoNjnK9/giphy.gif" width="28">
+</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
