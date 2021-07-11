@@ -8,6 +8,76 @@
 <p><br></p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 109 Contributions in the Year 2021
+ > 
+> 📦 21.4 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 24 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    24 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
+🌆 Daytime    585 commits    ███████░░░░░░░░░░░░░░░░░░   28.59% 
+🌃 Evening    851 commits    ██████████░░░░░░░░░░░░░░░   41.59% 
+🌙 Night      586 commits    ███████░░░░░░░░░░░░░░░░░░   28.64%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       196 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
+Tuesday      361 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
+Wednesday    311 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
+Thursday     211 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
+Friday       271 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+Saturday     186 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Sunday       510 commits    ██████░░░░░░░░░░░░░░░░░░░   24.93%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               24 repos            █████████████████████████   100.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ID29TH/ID29TH/main/charts/bar_graph.png) 
+
+
+ Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
 
 <!-- STAT SOCIAL -->
