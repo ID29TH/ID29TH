@@ -1,6 +1,6 @@
 <h3 align="center">
-  Welcome to Jonah Lawrence's profile!
-  <img src="https://media.giphy.com/media/Y00jEQ4f3H2c13bDSh/giphy.gif" width="28">
+  Welcome to Thawatchai Saing's profile!
+  <img src="https://media.giphy.com/media/gjmi54vMmLMv6v9Kfx/giphy.gif" width="28">
 </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
