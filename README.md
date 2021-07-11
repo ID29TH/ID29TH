@@ -7,61 +7,6 @@
 
 <p><br></p>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    24 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
-🌆 Daytime    583 commits    ███████░░░░░░░░░░░░░░░░░░   28.49% 
-🌃 Evening    853 commits    ██████████░░░░░░░░░░░░░░░   41.69% 
-🌙 Night      586 commits    ███████░░░░░░░░░░░░░░░░░░   28.64%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       196 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
-Tuesday      361 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
-Wednesday    311 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-Thursday     211 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
-Friday       271 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Saturday     186 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Sunday       510 commits    ██████░░░░░░░░░░░░░░░░░░░   24.93%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               24 repos            █████████████████████████   100.0%
-
-```
-
-
-
- Last Updated on 11/07/2021
-<!--END_SECTION:waka-->
-
 <!-- STAT SOCIAL -->
 <p align="center">
 	<a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1">
@@ -97,6 +42,11 @@ JavaScript               24 repos            ███████████�
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="160px"/></a>
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_title=true&hide_border=true&bg_color=22272e&icon_color=DD2727" height="160px"/></a>
 </p>
+
+## 🧮 ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ᴄ ʜ ᴀ ʀ ᴛ
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ## 📋⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ʟ ɪ ꜱ ᴛ
 <!--RECENT_ACTIVITY:start-->
