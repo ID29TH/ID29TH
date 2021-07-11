@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 </span>
 <span>
   <a href="https://github.com/ID29TH">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" />
   </a>  
 </span>
 </p>
