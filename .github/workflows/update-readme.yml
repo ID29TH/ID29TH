@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: ID29TH
+      - uses: ID29TH/ID29TH
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
