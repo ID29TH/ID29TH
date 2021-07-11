@@ -3,16 +3,16 @@
 </h1>
 <br><br><br><br><br>
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=dd3938&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=DD2727"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://twitter.com/DenverCoder1">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/DenverCoder1">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC6NAA-ok87KC5rGxVNUI-Lg?color=DD2727&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=dc4a4a"/></a> 
+  <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg">
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC6NAA-ok87KC5rGxVNUI-Lg?color=DD2727&logo=youtube&style=for-the-badge&labelColor=dc4a4a"/></a> 
+  <a href="https://twitter.com/ECqStudio">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ECqStudio?color=DD2727&labelColor=dc4a4a&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/ID29TH">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ID29TH?color=DD2727&labelColor=dc4a4a&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/ID29TH">
+    <img alt="views" title="GitHub profile views" src="https://ecq-studio.com/github/profileView"/></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
