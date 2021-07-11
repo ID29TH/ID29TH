@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neikan)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ECqStudio)
 
 <p align="center">
 <span>
