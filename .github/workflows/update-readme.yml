@@ -1,5 +1,4 @@
 name: Update README
-
 on:
   schedule:
     - cron: '*/30 * * * *'
@@ -10,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ID29TH/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
