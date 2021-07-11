@@ -43,18 +43,16 @@
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_title=true&hide_border=true&bg_color=22272e&icon_color=DD2727" height="160px"/></a>
 </p>
 
-## 📈⠀ᴘ ʀ ᴏ ꜰ ɪ ʟ ᴇ⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ
+## 📋⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ʟ ɪ ꜱ ᴛ
+<p align="center">
+	<!--RECENT_ACTIVITY:start-->
+	<!--RECENT_ACTIVITY:end-->
+</p>
+
+## 📈⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ɢ ʀ ᴀ ᴘ ʜ
 <p align="center">
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ID29TH&bg_color=22272e&hide_title=true&color=DD2727&line=DC9A18&point=FFFFFF&hide_border=true"/></a>
 </p>
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
