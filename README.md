@@ -1,7 +1,7 @@
-<font size="50px" align="center">
+<h1 align="center">
   Welcome to Thawatchai Saing's profile!
   <img src="https://media.giphy.com/media/mtDzIqcx7HQRoNjnK9/giphy.gif" width="28">
-</font>
+</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH)
 
