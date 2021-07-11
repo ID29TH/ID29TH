@@ -33,7 +33,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-- uses: anmol098/waka-readme-stats@master
+- uses: ECqStudio/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: f9331751-fb21-41d9-aa25-30871bc281c3
           GH_TOKEN: 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
