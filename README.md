@@ -44,15 +44,13 @@
 </p>
 
 ## 📋⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ʟ ɪ ꜱ ᴛ
-<p align="center">
-	<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [ID29TH/github-activity-readme](https://github.com/ID29TH/github-activity-readme) from [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. 🔱 Forked [ID29TH/jamesgeorge007](https://github.com/ID29TH/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
 3. 🔱 Forked [ID29TH/Simple-View-Counter](https://github.com/ID29TH/Simple-View-Counter) from [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter)
 4. 🔱 Forked [ID29TH/anmol098](https://github.com/ID29TH/anmol098) from [anmol098/anmol098](https://github.com/anmol098/anmol098)
 5. 🔱 Forked [ID29TH/DenverCoder1](https://github.com/ID29TH/DenverCoder1) from [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
-	<!--RECENT_ACTIVITY:end-->
-</p>
+<!--RECENT_ACTIVITY:end-->
 
 ## 📈⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ɢ ʀ ᴀ ᴘ ʜ
 <p align="center">
