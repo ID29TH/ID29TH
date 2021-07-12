@@ -2,7 +2,7 @@ name: WAKATIME STATUS 3H30M
 
 on:
   schedule:
-    - cron: '* 3 * * *'
+    - cron: '30 1,5,9,13,17,21 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
