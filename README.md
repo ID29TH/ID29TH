@@ -39,7 +39,7 @@
 
 ## 🖍⠀ᴘ ʀ ᴏ ꜰ ɪ ʟ ᴇ⠀ʟ ᴀ ɴ ɢ ᴜ ᴀ ɢ ᴇ
 <p align="center">
-	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ECqStudio&layout=compact&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="132px" width="63%" /></a>
+	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ECqStudio&layout=compact&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" width="63%" /></a>
 	<a href="https://github.com/ID29TH"><img alt="Thawatchai Saing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID29TH&langs_count=14&layout=compact&theme=vision-friendly-dark&hide_title=true&hide_border=true&bg_color=22272e&icon_color=DD2727" width="35%" /></a>
 </p>
 
