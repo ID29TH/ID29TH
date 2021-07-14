@@ -30,10 +30,10 @@
 ## 🔥⠀ᴘ ʀ ᴏ ꜰ ɪ ʟ ᴇ⠀ꜱ ᴛ ᴀ ᴛ ᴜ ꜱ
 <p align="center">
 	<span><a href="https://github.com/ID29TH">
-		<img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="153px"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=ID29TH&show_icons=true&theme=vision-friendly-dark&hide_title=true&bg_color=22272e&icon_color=DD2727&hide_border=true" height="151px"/>
 	</a></span>
 	<span><a href="https://github.com/ID29TH">
-		<img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" height="153px"/>
+		<img src="http://github-readme-streak-stats.herokuapp.com?user=ID29TH&theme=dark&hide_border=true&background=22272E&ring=DC9A18&fire=DD2727&currStreakLabel=DC9A18&sideNums=DC9A18" height="151px"/>
 	</a></span>
 </p>
 
