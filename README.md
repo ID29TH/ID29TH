@@ -74,16 +74,16 @@ Sunday       471 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      3 hrs 36 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Nova                     3 hrs 36 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          3 hrs 36 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +97,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
 
 ## 📋⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ʟ ɪ ꜱ ᴛ
