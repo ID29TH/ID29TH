@@ -45,7 +45,7 @@
 
 ## 🧮 ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ᴄ ʜ ᴀ ʀ ᴛ
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2022%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -100,7 +100,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 06:51:07 UTC
+ Last Updated on 06/05/2022 13:08:50 UTC
 <!--END_SECTION:waka-->
 
 ## 📋⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ʟ ɪ ꜱ ᴛ
