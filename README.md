@@ -45,7 +45,7 @@
 
 ## 🧮 ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ᴄ ʜ ᴀ ʀ ᴛ
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2035%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -76,16 +76,16 @@ Sunday       401 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               53 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Atom                     53 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          53 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  53 mins             █████████████████████████   100.0%
 
 ```
 
@@ -99,7 +99,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2022 18:45:06 UTC
+ Last Updated on 04/06/2022 02:21:55 UTC
 <!--END_SECTION:waka-->
 
 ## 📋⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ʟ ɪ ꜱ ᴛ
