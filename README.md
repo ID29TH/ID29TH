@@ -106,9 +106,9 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 ## 📋⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ʟ ɪ ꜱ ᴛ
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ID29TH/ID29TH](https://github.com/ID29TH/ID29TH)
-2. 🔱 Forked [ID29TH/PuneetGopinath](https://github.com/ID29TH/PuneetGopinath) from [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
-3. 🔱 Forked [ID29TH/abhijoshi2k](https://github.com/ID29TH/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+1. ⭐ Starred [ID29TH/template-html-website](https://github.com/ID29TH/template-html-website)
+2. ❗️ Opened issue [#144](https://github.com/HelloWorld017/atom-discord/issues/144) in [HelloWorld017/atom-discord](https://github.com/HelloWorld017/atom-discord)
+3. ⭐ Starred [ID29TH/ID29TH](https://github.com/ID29TH/ID29TH)
 4. 🔱 Forked [ID29TH/filiptronicek](https://github.com/ID29TH/filiptronicek) from [filiptronicek/filiptronicek](https://github.com/filiptronicek/filiptronicek)
 5. 🔱 Forked [ID29TH/omidnikrah](https://github.com/ID29TH/omidnikrah) from [omidnikrah/omidnikrah](https://github.com/omidnikrah/omidnikrah)
 <!--RECENT_ACTIVITY:end-->
