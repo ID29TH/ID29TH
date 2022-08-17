@@ -106,11 +106,11 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 ## 📋⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ʟ ɪ ꜱ ᴛ
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#144](https://github.com/HelloWorld017/atom-discord/issues/144) in [HelloWorld017/atom-discord](https://github.com/HelloWorld017/atom-discord)
-2. ⭐ Starred [ID29TH/template-html-website](https://github.com/ID29TH/template-html-website)
-3. ❗️ Opened issue [#144](https://github.com/HelloWorld017/atom-discord/issues/144) in [HelloWorld017/atom-discord](https://github.com/HelloWorld017/atom-discord)
-4. ⭐ Starred [ID29TH/ID29TH](https://github.com/ID29TH/ID29TH)
-5. 🔱 Forked [ID29TH/omidnikrah](https://github.com/ID29TH/omidnikrah) from [omidnikrah/omidnikrah](https://github.com/omidnikrah/omidnikrah)
+1. 🔱 Forked [ID29TH/google-translate-api](https://github.com/ID29TH/google-translate-api) from [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api)
+2. ✔️ Closed issue [#144](https://github.com/HelloWorld017/atom-discord/issues/144) in [HelloWorld017/atom-discord](https://github.com/HelloWorld017/atom-discord)
+3. ⭐ Starred [ID29TH/template-html-website](https://github.com/ID29TH/template-html-website)
+4. ❗️ Opened issue [#144](https://github.com/HelloWorld017/atom-discord/issues/144) in [HelloWorld017/atom-discord](https://github.com/HelloWorld017/atom-discord)
+5. ⭐ Starred [ID29TH/ID29TH](https://github.com/ID29TH/ID29TH)
 <!--RECENT_ACTIVITY:end-->
 
 ## 📈⠀ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ʏ⠀ɢ ʀ ᴀ ᴘ ʜ
