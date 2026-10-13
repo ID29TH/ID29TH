@@ -1,60 +1,46 @@
-<h3 align="center">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand">
-</h3>
-
 <p align="center">
-  Developer at <b>ECq Studio</b> — web frontends, browser extensions, automation tools and Discord bots.
+  <img alt="Hi there — Developer at ECq Studio" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=DD2727&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B;Developer+at+ECq+Studio;Web+%C2%B7+Extensions+%C2%B7+Automation+%C2%B7+Discord+bots">
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1"><img alt="YouTube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC6NAA-ok87KC5rGxVNUI-Lg?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribe&color=DD2727&labelColor=b31f1f"></a>
-  <a href="https://x.com/ECqStudio"><img alt="X @ECqStudio" src="https://img.shields.io/badge/X-@ECqStudio-DD2727?style=for-the-badge&logo=x&logoColor=white&labelColor=b31f1f"></a>
-  <a href="https://github.com/ID29TH?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ID29TH?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=DD2727&labelColor=b31f1f"></a>
+  <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1"><img alt="YouTube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC6NAA-ok87KC5rGxVNUI-Lg?style=for-the-badge&logo=youtube&logoColor=DD2727&label=YouTube&color=161616&labelColor=0d0d0d"></a>
+  <a href="https://x.com/ECqStudio"><img alt="X @ECqStudio" src="https://img.shields.io/badge/@ECqStudio-161616?style=for-the-badge&logo=x&logoColor=DD2727&label=X&labelColor=0d0d0d"></a>
+  <a href="https://github.com/ID29TH?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ID29TH?style=for-the-badge&logo=github&logoColor=DD2727&label=Followers&color=161616&labelColor=0d0d0d"></a>
+  <a href="https://wakatime.com/@ECqStudio"><img alt="WakaTime total coding time" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakatime.com%2Fbadge%2Fuser%2Fa3527940-4aa7-4265-a752-332e38a10309.json&style=for-the-badge&logo=wakatime&logoColor=DD2727&label=WakaTime&color=161616&labelColor=0d0d0d"></a>
   <a href="https://github.com/ID29TH"><img alt="Profile views" src="https://ecq-studio.com/github/profileView"></a>
 </p>
 
-## 🛠️ Tech stack
+<h2>🛠️ Tech stack</h2>
 
 <p align="center">
-  <img alt="HTML, CSS, JavaScript, Node.js, Firebase, Discord, Git, GitHub" src="https://skillicons.dev/icons?i=html,css,js,nodejs,firebase,discord,git,github&perline=8">
+  <img alt="HTML, CSS, JavaScript, Node.js, Firebase, Discord, Git, GitHub" src="https://skillicons.dev/icons?i=html,css,js,nodejs,firebase,discord,git,github&theme=dark&perline=8">
 </p>
 
-## 🚀 Featured project
+<h2>🚀 Featured project</h2>
 
 <p align="center">
   <a href="https://github.com/ECq-Studio-s/thai-shipping-pricing"><img alt="thai-shipping-pricing" src="./profile/pin-thai-shipping-pricing.svg"></a>
 </p>
 
-## 📊 GitHub stats
+<h2>📊 Stats</h2>
 
 <p align="center">
-  <img alt="GitHub stats" src="./profile/stats.svg" height="165">
-  <img alt="Top languages" src="./profile/top-langs.svg" height="165">
+  <img alt="GitHub stats" src="./profile/stats.svg" height="170">
+  <img alt="Top languages" src="./profile/top-langs.svg" height="170">
 </p>
 
 <p align="center">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=ID29TH&hide_border=true&background=00000000&ring=DD2727&fire=DD2727&currStreakNum=DC9A18&currStreakLabel=DC9A18&sideNums=DC9A18&sideLabels=8b949e&dates=8b949e&stroke=30363d">
+  <a href="https://wakatime.com/@ECqStudio"><img alt="WakaTime languages, last 7 days" src="./profile/wakatime.svg" height="170"></a>
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=ID29TH&background=0d0d0d&border=21262d&stroke=21262d&ring=DD2727&fire=DD2727&currStreakNum=FFFFFF&currStreakLabel=DD2727&sideNums=FFFFFF&sideLabels=c9d1d9&dates=8b949e&card_width=420" height="170">
 </p>
+
+<h2>🐍 Contributions</h2>
 
 <p align="center">
-  <a href="https://wakatime.com/@ECqStudio"><img alt="WakaTime coding time" src="./profile/wakatime.svg"></a>
+  <img alt="Contribution snake eating the contribution grid" src="./profile/snake.svg">
 </p>
 
-## 📈 Contribution graph
-
-<p align="center">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ID29TH&bg_color=00000000&color=8b949e&title_color=DD2727&line=DD2727&point=DC9A18&area=true&area_color=DD2727&hide_border=true&hide_title=true&radius=8">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
-    <img alt="Contribution snake eating the contribution grid" src="./profile/snake.svg">
-  </picture>
-</p>
-
-## 📋 Recent activity
+<h2>📋 Recent activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
 1. ✔️ Closed issue [#144](https://github.com/HelloWorld017/atom-discord/issues/144) in [HelloWorld017/atom-discord](https://github.com/HelloWorld017/atom-discord)
