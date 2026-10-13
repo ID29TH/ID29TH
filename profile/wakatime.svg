@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="150"
+        viewBox="0 0 495 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -23,7 +23,7 @@
           
     
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #8b949e;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -52,7 +52,7 @@
         width: 100%;
       }
     }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
     #rect-mask rect{
       animation: slideInAnimation 1s ease-in-out forwards;
     }
@@ -60,7 +60,7 @@
       animation: growWidthAnimation 0.6s ease-in-out forwards;
       fill: #DD2727;
     }
-    .progress-background { fill: #8b949e; }
+    .progress-background { fill: #c9d1d9; }
     
           
 
@@ -98,12 +98,12 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="10"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#21262d"
           width="494"
-          fill="#00000000"
-          stroke-opacity="0"
+          fill="#0d0d0d"
+          stroke-opacity="1"
         />
 
         
@@ -117,7 +117,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Coding time (last 7 days)</text>
+      >WakaTime &#183; last 7 days</text>
     </g>
       </g>
     
@@ -128,30 +128,30 @@
         >
           
     <svg x="0" y="0" width="100%">
+      <g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
+      <text class="stat bold" y="12.5" data-testid="JSON">JSON:</text>
+      <text
+        class="stat"
+        x="350"
+        y="12.5"
+      >8 mins</text>
       
-      <mask id="rect-mask">
-      <rect x="25" y="0" width="440" height="8" fill="white" rx="5" />
-      </mask>
-      
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="0"
-            y="0"
-            width="465"
+    <svg width="220" x="110" y="4">
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
+      <svg data-testid="lang-progress" width="100%">
+        <rect
             height="8"
-            fill="#292929"
-          />
-        
-      
-    <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#292929" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 8 mins
-      </text>
-    </g>
+            
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 750ms;"
+        />
+      </svg>
+    </svg>
   
-    
+    </g>
+  </g>
     </svg>
   
         </g>
