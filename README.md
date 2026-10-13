@@ -37,6 +37,10 @@
   <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=ID29TH&hide_border=true&background=00000000&ring=DD2727&fire=DD2727&currStreakNum=DC9A18&currStreakLabel=DC9A18&sideNums=DC9A18&sideLabels=8b949e&dates=8b949e&stroke=30363d">
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@ECqStudio"><img alt="WakaTime coding time" src="./profile/wakatime.svg"></a>
+</p>
+
 ## 📈 Contribution graph
 
 <p align="center">
