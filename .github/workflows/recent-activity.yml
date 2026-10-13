@@ -1,0 +1,24 @@
+name: Recent activity
+
+# Rewrites the block between <!--RECENT_ACTIVITY:start--> and
+# <!--RECENT_ACTIVITY:end--> in README.md with the latest public events.
+on:
+  schedule:
+    - cron: "43 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
