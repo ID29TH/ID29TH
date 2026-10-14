@@ -43,7 +43,6 @@
 <h2>📋 Recent activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#144](https://github.com/HelloWorld017/atom-discord/issues/144) in [HelloWorld017/atom-discord](https://github.com/HelloWorld017/atom-discord)
-2. 🔱 Forked [ID29TH/google-translate-api](https://github.com/ID29TH/google-translate-api) from [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api)
-3. ⭐ Starred [ID29TH/template-html-website](https://github.com/ID29TH/template-html-website)
+1. 💪 Opened PR [#2](undefined) in [ID29TH/ID29TH](https://github.com/ID29TH/ID29TH)<br>
+2. 💪 Opened PR [#1](undefined) in [ID29TH/ID29TH](https://github.com/ID29TH/ID29TH)<br>
 <!--RECENT_ACTIVITY:end-->
