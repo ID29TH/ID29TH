@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">🔗 Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -73,7 +73,7 @@
 
 ---
 
-<h3 align="center">⏱️ WakaTime · last 7 days</h3>
+<h3 align="center">WakaTime · last 7 days</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@ECqStudio"><img alt="WakaTime languages, last 7 days" src="./profile/wakatime.svg"></a>
@@ -81,7 +81,7 @@
 
 ---
 
-<h3 align="center">🔥 Contribution streak</h3>
+<h3 align="center">Contribution streak</h3>
 
 <p align="center">
   <img alt="Contribution streak" src="./profile/streak.svg">
@@ -89,7 +89,7 @@
 
 ---
 
-<h3 align="center">📈 Contribution graph</h3>
+<h3 align="center">Contribution graph</h3>
 
 <p align="center">
   <img alt="Contributions over the last 31 days" src="./profile/activity.svg" width="100%">
@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://ecq-studio.com/github/profileView">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ID29TH&base=1000&abbreviated=true&label=Profile%20views&color=000000&style=for-the-badge">
 </p>
