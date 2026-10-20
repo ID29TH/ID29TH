@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/channel/UC6NAA-ok87KC5rGxVNUI-Lg?sub_confirmation=1"><img alt="YouTube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC6NAA-ok87KC5rGxVNUI-Lg?style=for-the-badge&logo=youtube&logoColor=DD2727&label=YouTube&color=161616&labelColor=0d0d0d"></a>
   <a href="https://x.com/ECqStudio"><img alt="X @ECqStudio" src="https://img.shields.io/badge/@ECqStudio-161616?style=for-the-badge&logo=x&logoColor=DD2727&label=X&labelColor=0d0d0d"></a>
   <a href="https://github.com/ID29TH?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ID29TH?style=for-the-badge&logo=github&logoColor=DD2727&label=Followers&color=161616&labelColor=0d0d0d"></a>
-  <a href="https://wakatime.com/@ECqStudio"><img alt="WakaTime total coding time" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwakatime.com%2Fbadge%2Fuser%2Fa3527940-4aa7-4265-a752-332e38a10309.json&style=for-the-badge&logo=wakatime&logoColor=DD2727&label=WakaTime&color=161616&labelColor=0d0d0d"></a>
+  <a href="https://wakatime.com/@ECqStudio"><img alt="WakaTime total coding time" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fwakatime.com%2Fbadge%2Fuser%2Fa3527940-4aa7-4265-a752-332e38a10309.svg&query=%2F%2F*%5Blocal-name()%3D%27text%27%5D%5Blast()%5D&style=for-the-badge&logo=wakatime&logoColor=DD2727&label=WakaTime&color=161616&labelColor=0d0d0d"></a>
   <a href="https://github.com/ID29TH"><img alt="Profile views" src="https://ecq-studio.com/github/profileView"></a>
 </p>
 
