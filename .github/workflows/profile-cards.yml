@@ -1,6 +1,7 @@
 name: Profile cards
 
-# Builds the stats / languages / pinned-repo cards and the contribution snake
+# Builds the stats / languages / WakaTime / pinned-repo cards, the streak and
+# contribution graph, and the contribution snake
 # as static SVGs inside this repo, so the README never depends on rate-limited
 # public endpoints.
 on:
@@ -9,7 +10,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/profile-cards.yml"]
+    paths:
+      - ".github/workflows/profile-cards.yml"
+      - ".github/scripts/**"
 
 permissions:
   contents: write
@@ -30,7 +33,7 @@ jobs:
           card: stats
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&ring_color=DD2727&hide_border=false&border_color=21262d&border_radius=10&bg_color=0d0d0d&title_color=DD2727&icon_color=DD2727&text_color=c9d1d9
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&ring_color=FFFFFF&hide_border=false&border_color=21262d&border_radius=10&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9
 
       - name: Top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -38,7 +41,7 @@ jobs:
           card: top-langs
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_title=true&hide_border=false&border_color=21262d&border_radius=10&bg_color=0d0d0d&title_color=DD2727&icon_color=DD2727&text_color=c9d1d9
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=false&border_color=21262d&border_radius=10&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9
 
       - name: WakaTime card
         uses: stats-organization/github-readme-stats-action@v2
@@ -46,7 +49,7 @@ jobs:
           card: wakatime
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=ECqStudio&langs_count=6&custom_title=WakaTime%20%C2%B7%20last%207%20days&hide_border=false&border_color=21262d&border_radius=10&bg_color=0d0d0d&title_color=DD2727&icon_color=DD2727&text_color=c9d1d9
+          options: username=ECqStudio&langs_count=6&layout=compact&hide_title=true&hide_border=false&border_color=21262d&border_radius=10&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9
 
       - name: Featured repo card
         uses: stats-organization/github-readme-stats-action@v2
@@ -54,14 +57,19 @@ jobs:
           card: pin
           path: profile/pin-thai-shipping-pricing.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=ECq-Studio-s&repo=thai-shipping-pricing&show_owner=true&hide_border=false&border_color=21262d&border_radius=10&bg_color=0d0d0d&title_color=DD2727&icon_color=DD2727&text_color=c9d1d9
+          options: username=ECq-Studio-s&repo=thai-shipping-pricing&show_owner=true&hide_border=false&border_color=21262d&border_radius=10&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9
+
+      - name: Streak and contribution graph
+        run: node .github/scripts/contrib-cards.mjs "${{ github.repository_owner }}" profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/snake.svg?palette=github-dark&color_snake=DD2727&color_background=0d0d0d
+            profile/snake.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#3d444d,#6e7681,#b1bac4,#ffffff&color_background=#000000
 
       - name: Commit cards
         run: |
