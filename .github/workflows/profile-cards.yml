@@ -1,9 +1,9 @@
 name: Profile cards
 
-# Builds the stats / languages / WakaTime / pinned-repo cards, the streak and
-# contribution graph, and the contribution snake
-# as static SVGs inside this repo, so the README never depends on rate-limited
-# public endpoints.
+# Builds the profile cards and the contribution snake as static SVGs inside
+# this repo, so the README never depends on rate-limited public endpoints.
+# The stats card comes from github-readme-stats; the rest are drawn in black
+# and white by .github/scripts/profile-cards.mjs.
 on:
   schedule:
     - cron: "17 0 * * *" # daily, 07:17 Bangkok time
@@ -35,32 +35,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&ring_color=FFFFFF&hide_border=false&border_color=21262d&border_radius=10&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9
 
-      - name: Top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=false&border_color=21262d&border_radius=10&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9
-
-      - name: WakaTime card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: wakatime
-          path: profile/wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=ECqStudio&langs_count=6&layout=compact&hide_title=true&hide_border=false&border_color=21262d&border_radius=10&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9
-
-      - name: Featured repo card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          path: profile/pin-thai-shipping-pricing.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=ECq-Studio-s&repo=thai-shipping-pricing&show_owner=true&hide_border=false&border_color=21262d&border_radius=10&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9
-
-      - name: Streak and contribution graph
-        run: node .github/scripts/contrib-cards.mjs "${{ github.repository_owner }}" profile
+      - name: Streak, graph, languages, WakaTime and featured repo cards
+        run: >-
+          node .github/scripts/profile-cards.mjs
+          --login "${{ github.repository_owner }}"
+          --wakatime ECqStudio
+          --pin ECq-Studio-s/thai-shipping-pricing
+          --out profile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
