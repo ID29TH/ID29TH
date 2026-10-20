@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">THAWATCHAI SAING&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 186, Total PRs: 9, Total Issues: 3, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 186, Total PRs: 10, Total Issues: 3, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 228.9863740728281;
+        stroke-dashoffset: 228.2228141884509;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >9</text>
+      >10</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
