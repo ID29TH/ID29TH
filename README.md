@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://ecq-studio.com/github/profileView">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ID29TH&base=1000&abbreviated=true&label=Profile%20views&color=000000&style=for-the-badge">
 </p>
