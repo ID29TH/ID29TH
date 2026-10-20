@@ -11,7 +11,7 @@
   <line x1="330" y1="28" x2="330" y2="167" stroke="#21262d"/>
 
   <g class="fade" style="animation-delay:100ms" transform="translate(82.5, 0)">
-    <text x="0" y="88" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">191</text>
+    <text x="0" y="88" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">192</text>
     <text x="0" y="122" text-anchor="middle" fill="#c9d1d9" font-size="14">Total Contributions</text>
     <text x="0" y="146" text-anchor="middle" fill="#8b949e" font-size="12">Mar 5, 2014 - Present</text>
   </g>
