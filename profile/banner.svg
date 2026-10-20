@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Welcome to ID29TH's GitHub">
+  <title>Welcome to ID29TH's GitHub</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace; }
+    /* 26 characters revealed one at a time. */
+    .reveal { animation: type 2.4s steps(26, end) .6s forwards; }
+    .caret { animation: type 2.4s steps(26, end) .6s forwards, blink 1s step-end infinite; }
+    @keyframes type { to { transform: translateX(624px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    .sub { opacity: 0; animation: fade 1s ease-in-out 3.2s forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .twinkle { animation: twinkle 4s ease-in-out infinite; }
+    @keyframes twinkle { 50% { opacity: .15; } }
+  </style>
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="50%" r="55%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity=".06"/>
+    </pattern>
+    <linearGradient id="fadeLine" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="typed">
+      <rect class="reveal" x="-520" y="80" width="624" height="60"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1000" height="260" rx="12" fill="#000000"/>
+  <rect width="1000" height="260" rx="12" fill="url(#dots)"/>
+  <rect width="1000" height="260" rx="12" fill="url(#glow)"/>
+
+  <!-- Orbit on the right -->
+  <g fill="none" stroke="#ffffff">
+    <circle cx="820" cy="130" r="92" stroke-opacity=".10"/>
+    <circle cx="820" cy="130" r="62" stroke-opacity=".16" stroke-dasharray="2 6"/>
+    <circle cx="820" cy="130" r="30" stroke-opacity=".28"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="820" cy="130" r="4"/>
+    <circle class="twinkle" cx="728" cy="122" r="2"/>
+    <circle class="twinkle" cx="882" cy="83" r="2.5" style="animation-delay:1.2s"/>
+    <circle class="twinkle" cx="850" cy="218" r="1.8" style="animation-delay:2.4s"/>
+    <circle class="twinkle" cx="936" cy="52" r="1.4" style="animation-delay:.6s"/>
+    <circle class="twinkle" cx="676" cy="210" r="1.4" style="animation-delay:3s"/>
+  </g>
+
+  <!-- Prompt and typed headline: each glyph is 24px wide via textLength. -->
+  <text class="mono" x="70" y="122" font-size="34" fill="#6e7681">$</text>
+  <text class="mono" x="104" y="122" font-size="34" fill="#ffffff" textLength="624" lengthAdjust="spacingAndGlyphs" clip-path="url(#typed)">Welcome to ID29TH's GitHub</text>
+  <rect class="caret" x="106" y="94" width="3" height="34" fill="#ffffff"/>
+
+  <rect x="70" y="150" width="560" height="1" fill="url(#fadeLine)"/>
+  <text class="mono sub" x="70" y="182" font-size="15" fill="#8b949e" letter-spacing="1">Developer at ECq Studio · Web · Extensions · Automation · Discord bots</text>
+</svg>
