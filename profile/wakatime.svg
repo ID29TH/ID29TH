@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="100" viewBox="0 0 495 100" role="img" aria-label="WakaTime, last 7 days: Other 3 mins">
-  <title>WakaTime, last 7 days: Other 3 mins</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="100" viewBox="0 0 495 100" role="img" aria-label="WakaTime, last 7 days: no activity">
+  <title>WakaTime, last 7 days: no activity</title>
   <style>
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
     .fade { opacity: 0; animation: fade .6s ease-in-out forwards; }
@@ -8,11 +8,6 @@
   <rect x="0.5" y="0.5" rx="10" width="494" height="99" fill="#000000" stroke="#21262d"/>
 
   <text x="25" y="38" fill="#ffffff" font-size="18" font-weight="600">Coding time</text>
-  <text x="470" y="38" text-anchor="end" fill="#8b949e" font-size="13">Total 3 mins</text>
-  <g class="fade" style="animation-delay:150ms" transform="translate(25, 60)">
-    <text x="0" y="12" fill="#c9d1d9" font-size="13" font-weight="600">Other</text>
-    <rect x="120" y="3" width="215" height="8" rx="4" fill="#1c1f24"/>
-    <rect x="120" y="3" width="215.0" height="8" rx="4" fill="#ffffff"/>
-    <text x="445" y="12" text-anchor="end" fill="#8b949e" font-size="12">3 mins</text>
-  </g>
+  <text x="470" y="38" text-anchor="end" fill="#8b949e" font-size="13">Total 0 secs</text>
+  <text x="25" y="72" fill="#8b949e" font-size="13">No coding activity in the last 7 days</text>
 </svg>
