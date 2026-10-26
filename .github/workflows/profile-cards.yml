@@ -1,9 +1,7 @@
 name: Profile cards
 
-# Builds the profile cards and the contribution snake as static SVGs inside
-# this repo, so the README never depends on rate-limited public endpoints.
-# The stats card comes from github-readme-stats; the rest are drawn in black
-# and white by .github/scripts/profile-cards.mjs.
+# Rebuilds the SVG cards in profile/ every day. stats.svg comes from
+# github-readme-stats, everything else from .github/scripts/profile-cards.mjs.
 on:
   schedule:
     - cron: "17 0 * * *" # daily, 07:17 Bangkok time

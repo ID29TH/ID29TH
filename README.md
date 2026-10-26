@@ -18,15 +18,8 @@
 <h2 align="center">About me</h2>
 
 <p align="center">
-  Hi, I'm a developer at <b>ECq Studio</b>, based in Bangkok, Thailand.<br>
-  I build things for the web — sites, browser extensions, automation and Discord bots.
-</p>
-
-<p align="center">
-  <b>Web development</b><br>
-  <b>Browser extensions</b><br>
-  <b>Automation &amp; workflows</b><br>
-  <b>Discord bots</b>
+  Developer at <b>ECq Studio</b>, Bangkok.<br>
+  Mostly websites, browser extensions, automation and Discord bots.
 </p>
 
 ---

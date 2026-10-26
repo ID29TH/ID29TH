@@ -1,14 +1,12 @@
-// Builds the black-and-white profile cards: contribution streak and graph,
-// most used languages, WakaTime languages and the featured repo. Drawing them
-// here keeps every colour under our control (third-party cards force
-// per-language colours) and the README off rate-limited public endpoints.
+// Draws the black and white cards in profile/: streak, contribution graph,
+// top languages, WakaTime and the pinned repo.
 //
 // Usage: GITHUB_TOKEN=... node profile-cards.mjs --login <user> --out <dir>
 //          [--wakatime <user>] [--pin <owner/repo>]
 //        node profile-cards.mjs --sample --out <dir>   (renders fake data)
 //
-// A card that fails to build keeps its previous file and logs a warning, so
-// one flaky source does not block the others.
+// If one card fails (WakaTime down, etc.) its old file is kept and the rest
+// still update.
 
 import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
